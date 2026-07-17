@@ -152,5 +152,6 @@
         tp-xy-swap; 
 	    tp-x-invert;
 	    tp-y-invert;
+		$3=3;
     };
 };
