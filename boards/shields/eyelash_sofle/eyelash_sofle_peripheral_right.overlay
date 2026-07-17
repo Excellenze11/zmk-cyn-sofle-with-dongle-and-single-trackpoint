@@ -143,6 +143,8 @@
         ps2-device = <&uart_ps2>;
         status = "okay";
 		disable-clicking;
+        define PS2_MOUSE_INVERT_X
+        define PS2_MOUSE_INVERT_Y
 		/* Reset pin on Pro Micro Pinout D4 pin (P0.22) - required for reliable init */
         rst-gpios = <&pro_micro 4 GPIO_ACTIVE_HIGH>;
         sampling-rate = <100>; /* Default 80. Use 60, 80 or 100Hz(200Hz can be unstable). The frequency at which the mouse samples and sends data (in Hz). */
