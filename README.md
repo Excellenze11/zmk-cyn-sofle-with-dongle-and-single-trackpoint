@@ -1,4 +1,4 @@
-# Sofle, Soufflé and CYN Sofle(Mini Sofle) wireless split keyboard ZMK firmware for nRF52840 nice!nano and analogues. With ESB Dongle Mode and PS/2 trackpoint on right hand. 
+#  Sofle, Soufflé and CYN Sofle(Mini Sofle) wireless split keyboard ZMK firmware for nRF52840 nice!nano and analogues. With ESB Dongle Mode and PS/2 trackpoint on right hand. 
 
 Support editing keymap via https://nickcoutsos.github.io/keymap-editor/ and via https://zmk.studio/ ZMK Studio.
 
